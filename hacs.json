@@ -1,0 +1,6 @@
+{
+  "name": "Askey RTF8115 router - Movistar (Argentina)",
+  "render_readme": true,
+  "domains": ["device_tracker", "sensor"],
+  "iot_class": ["Local Polling"]
+}

@@ -1,0 +1,10 @@
+{
+  "domain": "askey_rtf8115",
+  "name": "Askey RTF8115 router - Movistar (Argentina)",
+  "documentation": "https://github.com/mfgea/homeassistant-custom_components/askey_rtf8115",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@mfgea"],
+  "iot_class": "local_polling",
+  "version": "0.1.0"
+}
